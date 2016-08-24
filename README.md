@@ -8,6 +8,15 @@ ATP Singles, 2012-2016
 3. Run "games.py" to get all links from the tournaments
 4. Run "stats.py" to get all stats
 
+# Files
+
+*tour.txt*
+ATP Singles tournament links
+
+*all_urls.txt*
+ATP Singles game links
+
+
 # Description
 
 | Label        | Variable       |
