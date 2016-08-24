@@ -1,4 +1,4 @@
-# atp-singles
+# ATP Singles
 ATP Singles, 2012-2016
 
 # How to:
