@@ -9,7 +9,7 @@ ATP Singles, 2012-2016
 4. Run "stats.py" to get all stats
 
 
-Tournament	tournament_name
+|Tournament |	tournament_name |
 Player	playerA,B
 ATP rank	atp_A,B
 Result	scoreA,B
