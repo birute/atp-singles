@@ -10,7 +10,7 @@ ATP Singles, 2012-2016
 
 
 | Label        | Variable       |
-| ------------- |:-------------:|
+| ------------- |-------------|
 |Tournament|	tournament_name|
 |Player|	playerA,B|
 |ATP rank|	atp_A,B|
