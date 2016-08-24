@@ -16,8 +16,8 @@ ATP Singles, 2012-2016
 |**Player**|	playerA,B|
 |**ATP rank**|	atp_A,B|
 |**Result**|	scoreA,B|
-|**Winner**|	winner,B|
-|**Time**|	time,B|
+|**Winner**|	winner|
+|**Time**|	time|
 |**Odds on 365bet.com**|	oddsA,B|
 |**Aces**|	acesA,B|
 |**Double Faults**|	dfA,B|
