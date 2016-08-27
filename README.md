@@ -10,8 +10,8 @@ ATP Singles, 2012-2016
 
 # Data files
 
-*tour.txt*
-- ATP Singles tournament links
+*tour.txt* , *tour_year.txt*
+- ATP Singles tournament links and archived linkes
 
 *all_urls.txt*
 - ATP Singles game links
