@@ -18,7 +18,7 @@ ATP Singles, 2012-2016
 - 
 *table.csv*
 - Preprocessed stats. Ready for analysis.
-- 
+
 # Description
 
 | Label        | Variable       |
