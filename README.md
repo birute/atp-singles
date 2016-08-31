@@ -15,10 +15,10 @@ ATP Singles, 2012-2016
 
 *all_urls.txt*
 - ATP Singles game links
-
-*stats.xlsx*
-- ATP Singles game statistics
-
+- 
+*table.csv*
+- Preprocessed stats. Ready for analysis.
+- 
 # Description
 
 | Label        | Variable       |
