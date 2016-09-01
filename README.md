@@ -25,7 +25,7 @@ ATP Singles, 2012-2016
 | ------------- |-------------|
 |**Tournament**|	tournament_name|
 |**Player**|	player|
-|**ATP rank**|	atp_|
+|**ATP rank**|	atp|
 |**Result**|	score|
 |**Winner**|	winner|
 |**Time**|	time|
