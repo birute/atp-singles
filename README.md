@@ -24,27 +24,27 @@ ATP Singles, 2012-2016
 | Label        | Variable       |
 | ------------- |-------------|
 |**Tournament**|	tournament_name|
-|**Player**|	playerA,B|
-|**ATP rank**|	atp_A,B|
-|**Result**|	scoreA,B|
+|**Player**|	player|
+|**ATP rank**|	atp_|
+|**Result**|	score|
 |**Winner**|	winner|
 |**Time**|	time|
-|**Odds on 365bet.com**|	oddsA,B|
-|**Aces**|	acesA,B|
-|**Double Faults**|	dfA,B|
-|**1st Serve Percentage**|	fsppA,B|
-|**1st Serve Points Won**|	fspA,B|
-|**2nd Serve Points Won**|	sspA,B|
-|**Break Points Saved**|	bpsA,B|
-|**1st Return Points Won**|	frpA,B|
-|**2nd Return Points Won**|	srpA,B|
-|**Break Points Converted**|	bpcA,B|
-|**Max Points In Row**|	mprA,B|
-|**Service Points Won**|	spwA,B|
-|**Return Points Won**|	rpwA,B|
-|**Total Points Won**|	tpwA,B|
-|**Max Games In Row**|	mgrA,B|
-|**Service Games Won**|	sgwA,B|
-|**Return Games Won**|	rgwA,B|
-|**Total Games Won**|	tgwA,B|
+|**Odds on 365bet.com**|	odds|
+|**Aces**|	aces|
+|**Double Faults**|	df|
+|**1st Serve Percentage**|	fspp|
+|**1st Serve Points Won**|	fsp|
+|**2nd Serve Points Won**|	ssp|
+|**Break Points Saved**|	bps|
+|**1st Return Points Won**|	frp|
+|**2nd Return Points Won**|	srp|
+|**Break Points Converted**|	bpc|
+|**Max Points In Row**|	mpr|
+|**Service Points Won**|	spw|
+|**Return Points Won**|	rpw|
+|**Total Points Won**|	tpw|
+|**Max Games In Row**|	mgr|
+|**Service Games Won**|	sgw|
+|**Return Games Won**|	rgw|
+|**Total Games Won**|	tgw|
 
